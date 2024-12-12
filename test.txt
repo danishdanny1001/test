@@ -1,7 +1,13 @@
 one
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 three
 =======
 two
 >>>>>>> crew1
+=======
+three
+
+four
+>>>>>>> 18f10d5d4561f1dcb34eced60aa0405132b8abe7
